@@ -28,7 +28,7 @@
 
   ### ✨ **Stats & Wakatime** ✨
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkMini&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-  <img src="https://wakatime.com/badge/user/4cf8186e-346e-4ab6-b1b0-3de720a891e8.svg?style=flat"><br>
+  <img src="https://wakatime.com/badge/user/90b6288a-c7f4-4b69-a75a-cc0d4e8146aa.svg"><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ParkMini&layout=compact&theme=dark"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Parkmini&count_private=true&show_icons=true&theme=dark"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkMini&layout=compact&theme=dark"><br>
